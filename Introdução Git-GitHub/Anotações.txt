@@ -1,0 +1,5 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git
+clonar: git clone
+enviar: git push origin master
+puxar: git push origin master
+cd .. - volta um diretório
